@@ -7,7 +7,7 @@ This plugin extends [Indigo](http://www.indigodomo.com) allowing it to send mess
 * Optional: Create a Slack channel to be used for Slack Notify (recommended), or use one of the defaults
 
 ## Installation
-* Download the ZIP file (look over there --->)
+* Download the ZIP file from Releases (above)
 * Unzip the file if it doesn't automatically unzip
 * On the computer running Indigo, double-click the file "Slack.indigoPlugin"
 * Follow the Indigo dialog and enable the plugin
