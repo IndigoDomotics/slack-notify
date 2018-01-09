@@ -28,3 +28,6 @@ Remove “/Library/Application Support/Perceptive Automation/Indigo 7/Plugins/Sl
 
 ## GitHub Gist
 For a simple python script version: [indigotoslack](https://gist.github.com/achterberg/cbd46bc3b9cdb391eed7)
+
+## Ownership
+Indigo Domotics does not assume any responsibility for this plugin. We are hosting it here in our repo for the convenience of our users but we will not be making any changes. If you would like to make changes then just fork, change, and submit a pull request on GitHub and we'll get a new release added here and into the Indigo Plugin Store.
