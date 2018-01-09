@@ -14,6 +14,7 @@ This plugin extends [Indigo](http://www.indigodomo.com) allowing it to send mess
 * The plugin should be visible in the Plugins drop-down menu as "Slack Notify"
 * Trouble?: Indigo help for the [installation process](http://wiki.indigodomo.com/doku.php?id=indigo_6_documentation:getting_started)
 
+## Configuration
 Check out [the wiki for detailed configuration information](https://github.com/IndigoDomotics/slack-notify/wiki).
 
 ## Dependencies
